@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flash cards!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_card">Add Card</string>
+    <string name="undo_remove">Undo Remove</string>
+    <string name="definition">Definition</string>
+    <string name="button">Button</string>
+    <string name="word">Word</string>
+    <string name="empty_trash">Empty Trash</string>
+</resources>
